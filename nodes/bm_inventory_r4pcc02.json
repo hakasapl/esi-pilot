@@ -998,6 +998,15 @@
             },
             "ports": [
                 {
+                    "address": "8C:3B:4A:3A:36:A3",
+                    "physical_network": "datacentre",
+                    "local_link_connection": {
+                        "switch_info": "MOC-R4PCC02-SW-BORS",
+                        "port_id": "swp2s4",
+                        "switch_id": "b0:cf:0e:17:bb:fd"
+                    }
+                },
+                {
                     "address": "A0:88:C2:27:BC:60",
                     "physical_network": "datacentre",
                     "local_link_connection": {
