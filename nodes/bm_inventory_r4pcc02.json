@@ -1002,7 +1002,7 @@
                     "physical_network": "datacentre",
                     "local_link_connection": {
                         "switch_info": "MOC-R4PCC02-SW-BORS",
-                        "port_id": "swp2s4",
+                        "port_id": "swp3s0",
                         "switch_id": "b0:cf:0e:17:bb:fd"
                     }
                 },
